@@ -1,0 +1,7 @@
+Dog 7
+Cat 3
+Snake 7
+Pig 1
+Cow 2
+Sheep 10
+Goat 4
